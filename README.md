@@ -109,7 +109,3 @@ Quantum Origin addresses this by:
 If you are developing future-proof cryptographic systems or enhancing enterprise security, Quantum Origin is the ideal quantum-enhanced solution ready for real-world deployment.
 
 ---
-
-> **Made by:** [Durgesh Cryptography Project Team]
-
-> **Inspired by:** The need for a Quantum-Safe Digital Future ✨
